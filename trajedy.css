@@ -1,0 +1,606 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+
+.tra{
+   
+    border-radius: 30%;
+   margin-left: 1400px;
+   margin-bottom: 400px;
+   margin-top: -450px;
+}
+.tra1 {
+    margin-left: 1400px;
+    border-radius: 30%;
+    margin-bottom: 800px;
+    margin-top: -400px;
+    
+}
+
+.musk{
+    margin-left: 900px;
+    margin-top: -1300px;
+    margin-bottom: 780px;
+    border: 2px solid black;
+}
+.tweet{
+    text-align: left;
+    padding-right: 1000px;
+    margin-left: 20px;
+}
+.bit {
+      margin-left:900px;
+    margin-top: -300px;
+    font-size: 1em;
+}
+h3{
+    text-align: center;
+}
+.para{
+    margin-bottom: 400px;
+}
+.el{
+    margin-left: 900px;
+    margin-bottom: 300px;
+    margin-top: -300px;
+    border: 2px solid black;
+}
+.gif{
+    margin-top: -200px;
+    margin-bottom: 300px;
+    border: 2px solid black;
+}
+/*===================================================*/
+.yo{
+   
+    margin-top: -1200px;
+}
+
+.do{
+    margin-left: 1350px;
+    margin-bottom: 500px;
+    margin-top: -400px;
+}
+.deva{
+    margin-top: -600px;
+    margin-bottom: 500px;
+}
+
+.lvmh{
+ margin-left: 950px;
+ margin-top: -300px;
+ margin-bottom: 400px;
+}
+
+.ronnb{
+     margin-left: 1400px;
+     margin-top: -700px;
+     margin-bottom: 50px;
+}
+
+.ronc{
+    margin-left: 900px;
+    margin-right: -500px;
+    margin-top: -200px;
+}
+.bill{
+    margin-left: 900px;
+   
+    margin-top: -400px;
+}
+.gates{
+    margin-left: 1350px;
+    margin-top: -500px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+
+}
+.melinda{
+    margin-left: 1350px;
+    margin-top: -1300px;
+    margin-bottom: 300px;
+    border: 2px solid black;
+}
+.billu{
+    margin-top: -500px;
+    margin-bottom: 600px;
+}
+h3{
+   font-size: 2em;
+    font-family: 'Sigmar One',
+    cursive;
+}
+.phungus{
+    margin-left: 1000px;
+    margin-top: -200px;
+    margin-bottom: 250px;
+    border: 2px solid black;
+}
+.lelo{
+    margin-bottom: 250px;
+    margin-top: -300px;
+    border: 2px solid black;
+}
+.pandu{
+    margin-bottom: 200px;
+    margin-top: -200px;
+}
+.beara {
+    margin-left: 900px;
+    border: 2px solid black;
+    margin-bottom: 150px;
+    margin-top: -200px;
+}
+/*==================================================================*/
+.bear{
+    margin-left: 900px;
+    border: 2px solid black;
+    margin-bottom: 250px;
+    margin-top: -300px;
+}
+.presi{
+    margin-left: 50px;
+    margin-bottom: 250px;
+    margin-top: -400px;
+}
+#back li{
+
+    font-size: 2em;
+}
+#back{
+        margin-top: -800px;
+        margin-bottom: 1200px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@500&display=swap');
+
+
+
+
+small {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.head {
+    text-align: center;
+    padding: 50px 0;
+    font-weight: 800;
+    margin: 0;
+    letter-spacing: -5px;
+    color: inherit;
+    font-size: 80px;
+    font-family: 'Kalam',
+        cursive;
+}
+
+.heada {
+    text-align: center;
+    padding: 50px 0;
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: -5px;
+    color: inherit;
+    font-size: 60px;
+    font-family: 'Kalam',
+        cursive;
+    margin-top: -50px;
+}
+
+/* NAVIGATION */
+nav {
+    width: 80%;
+    margin: 0 auto;
+
+    padding: 50px 0;
+
+}
+
+/* By Dominik Biedebach @domobch */
+nav ul {
+    list-style: none;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: #aaa;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0 10px;
+    font-family: 'Reggae One',
+        cursive;
+}
+
+nav ul li a,
+nav ul li a:after,
+nav ul li a:before {
+    transition: all .5s;
+}
+
+nav ul li a:hover {
+    color: #555;
+}
+
+/* stroke */
+nav.stroke ul li a,
+nav.fill ul li a {
+    position: relative;
+}
+
+nav.stroke ul li a:after,
+nav.fill ul li a:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0%;
+    content: '.';
+    color: transparent;
+    background: #333;
+    height: 1px;
+    border-radius: 10px;
+}
+
+nav.stroke ul li a:hover:after {
+    width: 100%;
+}
+
+nav.fill ul li a {
+    transition: all 2s;
+}
+
+nav.fill ul li a:after {
+    text-align: left;
+    content: '.';
+    margin: 0;
+    opacity: 0;
+}
+
+nav.fill ul li a:hover {
+    color: #055f2c;
+    z-index: 1;
+    border-radius: 50px;
+}
+
+nav.fill ul li a:hover:after {
+    z-index: -10;
+    animation: fill 1s forwards;
+    -webkit-animation: fill 1s forwards;
+    -moz-animation: fill 1s forwards;
+    opacity: 1;
+}
+
+@-webkit-keyframes fill {
+    0% {
+        width: 0%;
+        height: 1px;
+    }
+
+    50% {
+        width: 100%;
+        height: 1px;
+    }
+
+    100% {
+        width: 100%;
+        height: 100%;
+        background: #2ECC71;
+    }
+}
+
+.fill {
+    margin-bottom: 200px;
+    margin-top: -100px;
+}
+
+.para {
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1;
+    font-family: 'Recursive',
+        sans-serif;
+    margin-bottom: 300px;
+    margin-top: -190px;
+    padding: 10px;
+
+}
+
+.row>.column {
+    padding: 0 8px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 40%;
+    margin-left: 400px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: black;
+
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    width: 90%;
+    max-width: 1200px;
+}
+
+/* The Close Button */
+.close {
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #999;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.mySlides {
+    display: none;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+    color: #f2f2f2;
+    font-size: 20px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+img {
+    margin-bottom: -4px;
+}
+
+.caption-container {
+    text-align: center;
+    background-color: black;
+    padding: 2px 16px;
+    color: white;
+}
+
+.demo {
+    opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+    opacity: 1;
+}
+
+img.hover-shadow {
+    transition: 0.3s;
+}
+
+.hover-shadow:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+/*============================*/
+/*============================*/
+/*============================*/
+/*============================*/
+/*============================*/
+
+
+
+@media only screen and (max-width: 600px) {
+
+
+.tra {
+
+    border-radius: 50%;
+    margin-top: -100px;
+    margin-bottom: -200px;
+    width: 80px ;
+    height: 80px;
+    margin-left: -20px;
+}
+.tra1 {
+    margin-left: 250px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-bottom: -100px;
+    width: 80px;
+    height: 80px;
+}
+.musk{
+    margin-right: 500px;
+    margin-left: 60px;
+    height: 150px;
+    width: 180px;
+    margin-top: 20px;
+}
+ .head {
+     text-align: center;
+     padding: 10px 0;
+     font-weight: 800;
+     margin: 0;
+     letter-spacing: -2px;
+     color: inherit;
+     font-size: 30px;
+     font-family: 'Kalam',
+         cursive;
+ }
+ .tweet{
+     padding-right: 20px;
+ }
+.ronc{
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.ronnb{
+    height: 200px;
+    width: 200px;
+    margin-left: -50px;
+}
+ .bit{
+     height: 204px;
+     width: 200px;
+     margin-left: 20px;
+     margin-bottom: 500px;
+     
+ }
+ .do{
+     height: 200px;
+     width: 100px;
+   margin-top: 10px;
+     margin-left: -10px;
+    border: 2px solid black;
+ }
+ .lvmh{
+     height: 300px;
+     width: 300px;
+     margin-left: 10px;
+     margin-top: 200px;
+ }
+ .bi{
+     margin-top: 600px;
+     margin-bottom: -500px;
+ }
+ .bill{
+height: 400px;
+width: 300px;
+margin-left: 10px;
+margin-top: 200px;
+ }
+ .gates{
+height: 200px;
+width: 150px;
+margin-left: 1px;
+margin-top: 50px;
+margin-bottom: 300px;
+ }
+ .melinda{
+height: 200px;
+width: 150px;
+margin-top: 40px;
+
+margin-left: 1px;
+ }
+ .el{
+     height: 200px;
+     width: 150px;
+     margin-left: -1px;
+     margin-top: 200px;
+ }
+ .gif{
+     height: 200px;
+     width: 150px;
+     margin-bottom: 720px;
+     margin-left: 170px;
+     margin-top: -510px;
+ }
+ .phungus{
+     height: 300px;
+     width: 350px;
+     margin-left: 1px;
+     margin-top: 300px;
+ }
+ .lelo{
+     width: 350px;
+ }
+ .bear{
+     height: 300px;
+     width: 350px;
+     margin-left: 1px;
+     margin-top: 200px;
+ }
+ .presi{
+     width: 350px;
+     margin-top: -10px;
+     margin-bottom: 150px;
+     margin-left: 1px;
+ }
+ .beara{
+     margin-left: 1px;
+     height: 300px;
+     width: 350px;
+     margin-top: 100px;
+ }
+}
